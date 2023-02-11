@@ -1,6 +1,6 @@
 import queue
 import threading
-#import serial
+import serial
 import time
 import cv2
 import subprocess
